@@ -125,4 +125,3 @@ Current state of the heap: 8 2 5 1 3
 ## Notes
 This project is open source and available under the MIT License.
 This project is authored by Sarah Akhtar.
-Version 1.0.0
